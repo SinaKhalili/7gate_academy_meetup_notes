@@ -1,4 +1,4 @@
-# 7gate alum monthly meets notes
+# 7gate academy alumni monthly meetup notes
 
 <img src="assets/7gate-academy-light.png" align="right" width="120" height="178">
 
