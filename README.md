@@ -1,4 +1,7 @@
 # 7gate alum monthly meets notes
+
+<img src="assets/7gate-academy-light.png" align="right" width="120" height="178">
+
 Notes from the 7gate academy meetups! :book:
 This is the _official_ :ok_hand: 7gate blockchain academy alumni + friends meetup group notes repo :smirk:
 
