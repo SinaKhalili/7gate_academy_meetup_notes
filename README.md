@@ -3,7 +3,6 @@
 <img src="assets/7gate-academy-light.png" align="right" width="120" height="178">
 
 Notes from the 7gate academy meetups! :book:
-This is the _official_ :ok_hand: 7gate blockchain academy alumni + friends meetup group notes repo :smirk:
 
 The group meet is held approximately once every 3 weeks and is an opportunity to discuss a new and interesting topic in world of blockchain technology. Open to academy alum and friends :raised_hands:
 
