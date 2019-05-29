@@ -8,6 +8,7 @@ For this meetup we've decided to learn about Ethereum 2.0 the bigger better fast
 ### Readings :books:
  - [An Eli5 Eth 2.0 blog post ](https://www.tokendaily.co/blog/eli5-explanation-of-the-ethereum-2-0-testnet):sparkles: good starting point
  - [Formal specification of ETH 2.0](https://github.com/ethereum/eth2.0-specs) :sparkles: good starting point
+   - Especially the [terminology](https://github.com/ethereum/eth2.0-specs/blob/master/specs/core/0_beacon-chain.md#terminology) section
  - [What's New in Eth2 - 29 March 2019](https://notes.ethereum.org/c/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20190329.html)
  - [Ethereum phases](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
  - [Casper Protocol](https://vitalik.ca/general/2018/12/05/cbc_casper.html)
