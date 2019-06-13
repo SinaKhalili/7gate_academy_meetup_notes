@@ -15,4 +15,5 @@ The group meet is held approximately once every 3 weeks and is an opportunity to
 ## Meetups (chronologically) 
  - May 5, 2019 :point_right: [DAO's and decentralized governance](notes/DAOs_may_5_2019.md) 
  - May 27, 2019 :point_right: [Ethereum 2.0](notes/Eth2.0_may_27_2019.md)
- - _TBD_  Tezos
+ - June 11, 2019 :point_right: [Tezos](notes/Tezos_june_11_2019.md)
+ - July 8, 2019 :point_right: Cosmos
